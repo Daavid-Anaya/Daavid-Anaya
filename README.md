@@ -27,7 +27,8 @@
   <img width="22" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  /> 
+  <img align="right" src="https://github.com/Daavid-Anaya/Daavid-Anaya/blob/output/gif_gato.gif" alt="Animación" width="130" />
 </div>
-<img align="right" src="https://github.com/Daavid-Anaya/Daavid-Anaya/blob/output/gif_gato.gif" alt="Animación" width="130" />
+
 <img align="center" src="https://github.com/Daavid-Anaya/Daavid-Anaya/blob/output/github-contribution-grid-snake-dark.svg"/>
