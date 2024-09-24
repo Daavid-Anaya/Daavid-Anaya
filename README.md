@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋</h1>
 
 ###
 
-<p align="left">My name is David Villegas Anaya</p>
+<p align="left">I am David Villegas Anaya, I am 21 years old and I am a student at the Benemerita Universidad Autonama De Puebla (BUAP).</p>
 
 ###
 
