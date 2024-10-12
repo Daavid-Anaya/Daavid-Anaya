@@ -31,6 +31,6 @@
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="c logo"  />
   <img width="25" />
+  <img align="right" src="https://github.com/Daavid-Anaya/Daavid-Anaya/blob/Daavid-Anaya-patch-1/gif_gato.gif" alt="Animación" width="130" />
 </div>
-<img align="right" src="https://github.com/Daavid-Anaya/Daavid-Anaya/blob/Daavid-Anaya-patch-1/gif_gato.gif" alt="Animación" width="130" />
 <img align="center" src="https://github.com/Daavid-Anaya/Daavid-Anaya/blob/output/github-contribution-grid-snake-dark.svg"/>
