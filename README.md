@@ -3,9 +3,6 @@
 <h3 align="center">I am 22 years old and I am a student at the Benemerita Universidad Autonama De Puebla (BUAP).</h3>
 
 <hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daavid-anaya&label=Profile%20views&color=0e75b6&style=flat" alt="daavid-anaya" /> </p>
-
-
 - 🌱 Actualmente estoy aprendiendo **Spring Boot**
 - 🎯 Goals: ...
 - ⚡ In my free time I play in a basketball team 🏀, I also practice skateboarding 🛹, I love going to museums 🏛, cultural events and taking photos 📷. I like to enjoy a good coffee in a nice cafe ☕.
@@ -60,3 +57,13 @@
 <p><img align="izquierda" src="https://github-readme-stats.vercel.app/api/top-langs?username=daavid-anaya&show_icons=true&locale=es&layout=compact" alt="daavid-anaya" /></p>
 
 <p> <img align="centro" src="https://github-readme-stats.vercel.app/api?username=daavid-anaya&show_icons=true&locale=es" alt="daavid-anaya" /></p>
+
+<div align="center">
+ 
+ ![snake gif](https://github.com/Daavid-Anaya/Daavid-Anaya/blob/output/github-snake-dark.svg)
+
+</div>
+
+<div align="center">
+ <img src="https://komarev.com/ghpvc/?username=daavid-anaya&label=Profile%20views&color=0e75b6&style=flat" alt="daavid-anaya" />
+</div>
