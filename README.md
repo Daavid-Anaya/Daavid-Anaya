@@ -3,10 +3,7 @@
 <h3 align="center">I am 22 years old and I am a student at the Benemerita Universidad Autonama De Puebla (BUAP).</h3>
 
 <hr>
-- 🌱 Actualmente estoy aprendiendo **Spring Boot**
-- 🎯 Goals: ...
-- ⚡ In my free time I play in a basketball team 🏀, I also practice skateboarding 🛹, I love going to museums 🏛, cultural events and taking photos 📷. I like to enjoy a good coffee in a nice cafe ☕.
-- 📫 Cómo contactarme **daavidanaya@gmail.com**
+<p align="left">🌱 Actualmente estoy aprendiendo **Spring Boot**<br>🎯 Goals: ...<br>⚡ In my free time I play in a basketball team 🏀, I also practice skateboarding 🛹, I love going to museums 🏛, cultural events and taking photos 📷. I like to enjoy a good coffee in a nice cafe ☕.<br>📫 Cómo contactarme **daavidanaya@gmail.com**</p>
 
 <hr>
 <h3 align="left">Connect with me</h3>
@@ -54,9 +51,16 @@
   </a>
 </p>
 
-<p><img align="izquierda" src="https://github-readme-stats.vercel.app/api/top-langs?username=daavid-anaya&show_icons=true&locale=es&layout=compact" alt="daavid-anaya" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Daavid-Anaya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Daavid-Anaya&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Daavid-Anaya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p> <img align="centro" src="https://github-readme-stats.vercel.app/api?username=daavid-anaya&show_icons=true&locale=es" alt="daavid-anaya" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Daavid-Anaya&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Daavid-Anaya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <div align="center">
  
