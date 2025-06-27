@@ -70,9 +70,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Daavid-Anaya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <div align="center">
- <!-- 
+
  ![snake gif](https://github.com/Daavid-Anaya/Daavid-Anaya/blob/output/github-snake-dark.svg)
--->
+
 </div>
 
 <div align="center">
