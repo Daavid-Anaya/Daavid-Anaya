@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me</h3>
 <p align="left">
   <a
-  href="https://mail.google.com/mail/?view=cm&fs=1&to=daavidanaya@gmail.com&su=asuento&body=mensaje."
+  href="https://mail.google.com/mail/?view=cm&fs=1&to=daavidanaya@gmail.com&su=asunto&body="
   target="_blank"
    rel="noopener noreferrer"
   >
