@@ -3,12 +3,12 @@
 <h3 align="center">I am 22 years old and I am a student at the Benemerita Universidad Autonama De Puebla (BUAP).</h3>
 
 <hr>
-<p align="left">🌱 I am currently improving my programming logic.<br>🎯 Goals: ...<br>⚡ In my free time I play in a basketball team 🏀, I also practice skateboarding 🛹, I love going to museums 🏛, cultural events and taking photos 📷. I like to enjoy a good coffee in a nice cafe ☕.</p> <hr>
+<p align="left">🌱 I am currently learning Spring Boot.<br>🎯 Goals: ...<br>⚡ In my free time I play in a basketball team 🏀, I also practice skateboarding 🛹, I love going to museums 🏛, cultural events and taking photos 📷. I like to enjoy a good coffee in a nice cafe ☕.</p> <hr>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
   <a
-  href="https://mail.google.com/mail/?view=cm&fs=1&to=daavidanaya@gmail.com&su=asunto&body="
+  href="https://mail.google.com/mail/?view=cm&fs=1&to=daavidanaya@gmail.com&su=&body="
   target="_blank"
    rel="noopener noreferrer"
   >
