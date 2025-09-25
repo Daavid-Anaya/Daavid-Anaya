@@ -1,9 +1,9 @@
-<h1 align="center">Hey 👋, I am David Villegas Anaya</h1>
+<h1 align="center">Hey 👋, I am David</h1>
 
-<h3 align="center">I am 22 years old and I am a student at the Benemerita Universidad Autonama De Puebla (BUAP).</h3>
+<h3 align="center">I am 22 years old and I am a computer science student at the Benemérita Universidad Autonama de Puebla (BUAP). </h3>
 
-<hr>
-<p align="left">🌱 I am currently learning Spring Boot.<br>🎯 Goals: ...<br>⚡ In my free time I play in a basketball team 🏀, I also practice skateboarding 🛹, I love going to museums 🏛, cultural events and taking photos 📷. I like to enjoy a good coffee in a nice cafe ☕.</p> <hr>
+<hr><p> I am expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative and creative.</p>
+<p align="left">🌱 I'm currently learning cross-platform mobile development with Flutter and Dart.<br>⚡ In my free time I play in a basketball team 🏀, I also practice skateboarding 🛹, I love going to museums 🏛, cultural events and taking photos 📷. I like to enjoy a good coffee in a nice cafe ☕.</p> <hr>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
