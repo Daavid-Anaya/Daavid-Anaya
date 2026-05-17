@@ -27,9 +27,11 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=daavidanaya@gmail.com&su=&body=" target="_blank" rel="noopener noreferrer">
     <img href="https://skillicons.dev" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
-</p> 
 
-<hr>
+  <a href="https://www.linkedin.com/in/david-villegas-anaya/" target="_blank" rel="noopener noreferrer">
+    <img href="https://skillicons.dev" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
 <h2 align="left">🛠️ Languages and Tools</h2>
 
