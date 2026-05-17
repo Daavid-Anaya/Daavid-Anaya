@@ -28,7 +28,7 @@
     <img href="https://skillicons.dev" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
 
-  <a href="https://www.linkedin.com/in/david-villegas-anaya/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/david-villegas-anaya" target="_blank" rel="noopener noreferrer">
     <img href="https://skillicons.dev" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </p>
