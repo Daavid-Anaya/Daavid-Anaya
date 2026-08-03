@@ -60,18 +60,10 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daavid-Anaya&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Daavid-Anaya&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daavid-Anaya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Daavid-Anaya&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=github_dark" alt="GitHub Stats" /><br/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=5&theme=github_dark" alt="Top Langs" />
 </div>
 
-<hr>
-
-## 🔝 Top Contributed Repos
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Daavid-Anaya&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</div>
- 
 <hr>
 
 <div align="center">
