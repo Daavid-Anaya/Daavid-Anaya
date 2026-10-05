@@ -97,13 +97,16 @@ I enjoy being part of tech communities and attending events to exchange knowledg
 </div>
 
 <h2 align="left">📫 Connect with me</h2>
-<p align="left">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=daavidanaya@gmail.com&su=&body=" target="_blank" rel="noopener noreferrer">
-    <img href="https://skillicons.dev" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>
 
-  <a href="https://www.linkedin.com/in/david-villegas-anaya" target="_blank" rel="noopener noreferrer">
-    <img href="https://skillicons.dev" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+<p align="center">
+  <a href="mailto:villegasanayadavid@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Write%20to%20me-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email David">
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/david-villegas-anaya">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect with David on LinkedIn">
+  </a>&nbsp;
+  <a href="https://axiwklk6zpoi.objectstorage.mx-queretaro-1.oci.customer-oci.com/n/axiwklk6zpoi/b/portafolio-digital/o/index.html">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-315A72?style=for-the-badge" alt="Visit David's portfolio">
   </a>
 </p>
 
