@@ -19,10 +19,14 @@
 - **Tepexi Digital** — An informational and cultural platform for a municipality in the Mixteca Poblana region.
 - **NuevaMente** *(in development)* — An intelligent system for adapting and generating educational content.
 
-## 🤝 Community
+## 🤝 Community and Events
 
 I enjoy being part of tech communities and attending events to exchange knowledge, ideas, and experiences.
 
+**Community:**
+- AWS Students Builder Group BUAP.
+
+**Events attended:**
 - AWS Students Builder Group BUAP.
 - AWS Summit Ciudad de México 2026.
 - PyDay México 2026.
