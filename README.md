@@ -31,6 +31,16 @@ I enjoy being part of tech communities and attending events to exchange knowledg
 - Cyber Security Global Congress BUAP 2026.
 - FEPRO 2026.
 
+## 🎓 Certifications
+
+- **Earned:** Oracle ONE — Backend con Java y Spring Boot.
+- **Earned:** Programa ONE Tech Foundation G9 - Back End.
+- **Earned:** Oracle Cloud Infrastructure 2026 Foundations Associate.
+- **Earned:** Oracle Cloud Infrastructure AI Foundations Associate 2026.
+- **Preparing for:** AWS Certified Cloud Practitioner.
+- **Preparing for:** AWS Certified AI Practitioner.
+- **Preparing for:** Oracle Agentic AI Foundations Associate 2026.
+
 <h2 align="left">📫 Connect with me</h2>
 <p align="left">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=daavidanaya@gmail.com&su=&body=" target="_blank" rel="noopener noreferrer">
