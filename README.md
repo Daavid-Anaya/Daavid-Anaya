@@ -4,19 +4,21 @@
  <img src="https://komarev.com/ghpvc/?username=daavid-anaya&label=Profile%20views&color=0e75b6&style=flat" alt="daavid-anaya" />
 </div>
 
-<h3 align="center">Computer Science student at the Benemérita Universidad Autónoma de Puebla (BUAP).</h3>
+<h3 align="center">Computer Science student at the Benemérita Universidad Autónoma de Puebla (BUAP).</h3> <hr>
 
-<hr>
+<div align="left">
+ 
+💻 I'm a 24-year-old developer strengthening my skills through training in programming, software development, innovation, management, and leadership.
 
-<p align="center">
- I am a 22-year-old developer expanding my knowledge in modern web development and Artificial Intelligence. I love to learn and build digital solutions that are productive, innovative, and have a positive cultural impact.
-</p>
+🎯My main interests are backend development, cloud computing, and using AI throughout the software development process.
 
-<div align="center">
+✨ I enjoy learning and building practical, innovative digital solutions that make a positive impact.
 
-🌱 **Currently learning:** Preparing for the **Oracle Cloud Infrastructure AI Foundations Associate** certification, exploring advanced AI Agents (RAG), and participating in the *Tech Advanced* track at **Oracle Next Education**.
+🌱 I enjoy being part of tech communities and attending events to exchange knowledge, ideas, and experiences. Events I've attended include AWS Summit Ciudad de México 2026, PyDay México 2026, Cyber Security Global Congress BUAP 2026, and FEPRO 2026.
 
-🚀 **Currently building:** **Tepexi Digital**, an informative and cultural platform for the Mixteca Poblana utilizing Next.js, TypeScript, and Sanity.
+📚 **Currently preparing for:** AWS Certified Cloud Practitioner and AWS Certified AI Practitioner.
+
+🚀 **Projects:** I developed **Tepexi Digital**, an informational and cultural platform for a municipality in the Mixteca Poblana region. I'm currently developing **NuevaMente**, an intelligent system for adapting and generating educational content.
 
 </div>
 
