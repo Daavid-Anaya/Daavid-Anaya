@@ -1,10 +1,10 @@
-<h1 align="center">Hey, I am David 👋</h1>
+
+
+<h3 align="center">Computer Science student at the Benemérita Universidad Autónoma de Puebla (BUAP).</h3>
 
 <div align="center">
  <img src="https://komarev.com/ghpvc/?username=daavid-anaya&label=Profile%20views&color=0e75b6&style=flat" alt="daavid-anaya" />
 </div>
-
-<h3 align="center">Computer Science student at the Benemérita Universidad Autónoma de Puebla (BUAP).</h3> <hr>
 
  ## About me
  
@@ -43,7 +43,7 @@ I enjoy being part of tech communities and attending events to exchange knowledg
 - **Preparing for:** AWS Certified AI Practitioner.
 - **Preparing for:** Oracle Agentic AI Foundations Associate 2026.
 
-## 🛠 tech-stack
+## 🛠️ Tech Stack
 
 <div align="center">
   <table>
