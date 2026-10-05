@@ -43,6 +43,57 @@ I enjoy being part of tech communities and attending events to exchange knowledg
 - **Preparing for:** AWS Certified AI Practitioner.
 - **Preparing for:** Oracle Agentic AI Foundations Associate 2026.
 
+## 🛠 tech-stack
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th colspan="2" align="left">
+          <code>daavid-anaya:~$ cat tech-stack.yaml</code>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td width="50%" valign="top">
+          <code>├─ ⚙ backend_frameworks:</code><br><br>
+          <img src="https://skillicons.dev/icons?i=java,spring,py,fastapi" alt="Java, Spring Boot, Python and FastAPI"><br>
+          <sub><code>Java · Spring Boot · Python · FastAPI</code></sub>
+        </td>
+        <td width="50%" valign="top">
+          <code>├─ ▣ databases:</code><br><br>
+          <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="MySQL and PostgreSQL"><br>
+          <sub><code>MySQL · PostgreSQL</code></sub>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top">
+          <code>├─ ☁ cloud_infrastructure:</code><br><br>
+          <code>Oracle Cloud Infrastructure (OCI)</code>
+        </td>
+        <td valign="top">
+          <code>├─ ◈ frontend_ui:</code><br><br>
+          <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&amp;perline=4" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, and Tailwind CSS"><br>
+          <sub><code>HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS</code></sub>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top">
+          <code>├─ ⌘ dev_tools:</code><br><br>
+          <img src="https://skillicons.dev/icons?i=git,linux,docker" alt="Git, Linux, and Docker"><br>
+          <sub><code>Git · Linux · Docker</code></sub>
+        </td>
+        <td valign="top">
+          <code>╰─ ◇ mobile:</code><br><br>
+          <img src="https://skillicons.dev/icons?i=dart,flutter" alt="Dart and Flutter"><br>
+          <sub><code>Dart · Flutter</code></sub>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 <h2 align="left">📫 Connect with me</h2>
 <p align="left">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=daavidanaya@gmail.com&su=&body=" target="_blank" rel="noopener noreferrer">
@@ -53,31 +104,6 @@ I enjoy being part of tech communities and attending events to exchange knowledg
     <img href="https://skillicons.dev" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </p>
-
-<h2 align="left">🛠️ Languages and Tools</h2>
-
-### 🌐 Frontend & UI
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=10" alt="Frontend Skills" />
-  </a>
-</p>
-
-### ⚙️ Backend & Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,mysql&perline=10" alt="Backend Skills" />
-  </a>
-</p>
-
-### 📱 Mobile & DevTools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,git,linux&perline=10" alt="Mobile and Tools" />
-  </a>
-</p>
-
-<hr>
 
 ## 📊 GitHub Stats
 <div align="center">
