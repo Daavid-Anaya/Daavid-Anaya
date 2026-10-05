@@ -29,7 +29,7 @@ I enjoy being part of tech communities and attending events to exchange knowledg
 - Cyber Security Global Congress BUAP 2026.
 - FEPRO 2026.
 
-## 🎓 Certifications
+## 🎓  Training & Certifications
 
 - **Training:** Oracle ONE — Backend con Java y Spring Boot.
 - **Training:** Programa ONE Tech Foundation G9 - Back End.
