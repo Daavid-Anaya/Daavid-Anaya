@@ -14,14 +14,22 @@
 
 ✨ I enjoy learning and building practical, innovative digital solutions that make a positive impact.
 
-🌱 I enjoy being part of tech communities and attending events to exchange knowledge, ideas, and experiences. Events I've attended include AWS Summit Ciudad de México 2026, PyDay México 2026, Cyber Security Global Congress BUAP 2026, and FEPRO 2026.
-
 📚 **Currently preparing for:** AWS Certified Cloud Practitioner and AWS Certified AI Practitioner.
 
 ## 🚀 **Projects:**
 
 - **Tepexi Digital** — An informational and cultural platform for a municipality in the Mixteca Poblana region.
 - **NuevaMente** *(in development)* — An intelligent system for adapting and generating educational content.
+
+## 🤝 Community
+
+I enjoy being part of tech communities and attending events to exchange knowledge, ideas, and experiences.
+
+- AWS Students Builder Group BUAP.
+- AWS Summit Ciudad de México 2026.
+- PyDay México 2026.
+- Cyber Security Global Congress BUAP 2026.
+- FEPRO 2026.
 
 <h2 align="left">📫 Connect with me</h2>
 <p align="left">
