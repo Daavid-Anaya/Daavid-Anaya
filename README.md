@@ -61,7 +61,7 @@
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Daavid-Anaya&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=5&theme=github_dark" alt="Top Langs" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Daavid-Anaya&layout=donut&langs_count=5&theme=github_dark" alt="Top Langs" />
 </div>
 
 <hr>
