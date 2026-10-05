@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="assets/whoami-editor.svg" width="960" alt="Animated profile of David Anaya with Java, Python and Linux particle artwork and a YAML editor panel">
+</p>
 
 <h3 align="center">Computer Science student at the Benemérita Universidad Autónoma de Puebla (BUAP).</h3>
 
