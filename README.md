@@ -31,8 +31,8 @@ I enjoy being part of tech communities and attending events to exchange knowledg
 
 ## 🎓 Certifications
 
-- **Earned:** Oracle ONE — Backend con Java y Spring Boot.
-- **Earned:** Programa ONE Tech Foundation G9 - Back End.
+- **Training:** Oracle ONE — Backend con Java y Spring Boot.
+- **Training:** Programa ONE Tech Foundation G9 - Back End.
 - **Earned:** Oracle Cloud Infrastructure 2026 Foundations Associate.
 - **Earned:** Oracle Cloud Infrastructure AI Foundations Associate 2026.
 - **Preparing for:** AWS Certified Cloud Practitioner.
