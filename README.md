@@ -14,8 +14,6 @@
 
 ✨ I enjoy learning and building practical, innovative digital solutions that make a positive impact.
 
-📚 **Currently preparing for:** AWS Certified Cloud Practitioner and AWS Certified AI Practitioner.
-
 ## 🚀 **Projects:**
 
 - **Tepexi Digital** — An informational and cultural platform for a municipality in the Mixteca Poblana region.
