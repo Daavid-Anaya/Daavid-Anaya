@@ -5,8 +5,6 @@
 </div>
 
 <h3 align="center">Computer Science student at the Benemérita Universidad Autónoma de Puebla (BUAP).</h3> <hr>
-
-<div align="left">
  
 💻 I'm a 24-year-old developer strengthening my skills through training in programming, software development, innovation, management, and leadership.
 
@@ -18,9 +16,10 @@
 
 📚 **Currently preparing for:** AWS Certified Cloud Practitioner and AWS Certified AI Practitioner.
 
-🚀 **Projects:** I developed **Tepexi Digital**, an informational and cultural platform for a municipality in the Mixteca Poblana region. I'm currently developing **NuevaMente**, an intelligent system for adapting and generating educational content.
+## 🚀 **Projects:**
 
-</div>
+- **Tepexi Digital** — An informational and cultural platform for a municipality in the Mixteca Poblana region.
+- **NuevaMente** *(in development)* — An intelligent system for adapting and generating educational content.
 
 <hr>
 
