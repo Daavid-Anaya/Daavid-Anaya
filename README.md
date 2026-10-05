@@ -5,6 +5,8 @@
 </div>
 
 <h3 align="center">Computer Science student at the Benemérita Universidad Autónoma de Puebla (BUAP).</h3> <hr>
+
+ ## About me
  
 💻 I'm a 24-year-old developer strengthening my skills through training in programming, software development, innovation, management, and leadership.
 
@@ -20,8 +22,6 @@
 
 - **Tepexi Digital** — An informational and cultural platform for a municipality in the Mixteca Poblana region.
 - **NuevaMente** *(in development)* — An intelligent system for adapting and generating educational content.
-
-<hr>
 
 <h2 align="left">📫 Connect with me</h2>
 <p align="left">
