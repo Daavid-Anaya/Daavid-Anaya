@@ -105,7 +105,7 @@ I enjoy being part of tech communities and attending events to exchange knowledg
   <a href="https://www.linkedin.com/in/david-villegas-anaya">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Connect with David on LinkedIn">
   </a>&nbsp;
-  <a href="https://axiwklk6zpoi.objectstorage.mx-queretaro-1.oci.customer-oci.com/n/axiwklk6zpoi/b/portafolio-digital/o/index.html">
+  <a href="https://david-anaya-portafolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-315A72?style=for-the-badge" alt="Visit David's portfolio">
   </a>
 </p>
